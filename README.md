@@ -1,2 +1,2 @@
 # LeetCode
-- [] Sort Array by Parity
+- [ ] Sort Array by Parity
